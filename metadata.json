@@ -1,0 +1,5 @@
+{
+  "name": "Botpress Local Chat UI",
+  "description": "A minimalistic user interface to interact with and test a locally running Botpress bot through its tunnel URL.",
+  "requestFramePermissions": []
+}
